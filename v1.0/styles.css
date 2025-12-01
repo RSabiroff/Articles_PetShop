@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+
+:root {
+	font-size: 10px;
+}
+
+*,
+*:after,
+*:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font: inherit;
+	font-weight: 400;
+	outline: 0;
+	border: none;
+}
+
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 17px 0;
+}
+
+
+table {
+	font-size: 1.6rem;
+	border-collapse: collapse;
+}
+
+
+td {
+
+	border: 1px solid #000000;
+	padding: 0 10px;
+}
+td:nth-child(2) {
+	font-size: 1.375em;
+}
+
+/* tr td:first-of-type {
+	border-left: none;
+}
+
+tr td:last-of-type {
+	border-right: none;
+} */
