@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+
+
+:root {
+	font-size: 10px;
+}
+
+*,
+*:after,
+*:before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font: inherit;
+	font-weight: 400;
+	outline: 0;
+	border: none;
+}
+
+
+
+body {
+	font-size: 1.6rem;
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
