@@ -22,6 +22,7 @@
 
 body {
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	padding: 17px 0;
@@ -31,18 +32,32 @@ body {
 
 table {
 	font-size: 1.6rem;
+	margin-top: 17px;
 	border-collapse: collapse;
+}
+
+
+
+tr {
+	display: flex;
 }
 
 
 
 td {
 	border: 1px solid #000000;
-	padding: 0 10px;
 }
 td:nth-child(2) {
 	font-size: 1.375em;
+	flex: 1 0 20%;
+	-text-align: center;
 }
 td:first-of-type, td:last-of-type {
-	width: 195px;
+	flex: 1 0 40%;
+	padding: 0 10px;
+}
+td:nth-child(2), td:nth-child(3) {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
