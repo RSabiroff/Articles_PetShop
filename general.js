@@ -3,7 +3,7 @@
 
 
 
-export let dateOfChange = 'Крайнее обновление: 18.02.2026';
+export let dateOfChange = 'Крайнее обновление: 23.02.2026';
 export let table = `
 <tr class="s">	<td>Organix, 50г</td> 						<td>10801</td>		<td>0201, 7650</td>						</tr>
 <tr class="s">	<td>Royal Canin, 4кг</td> 					<td>11114</td>		<td>4725, 8824</td>						</tr>
@@ -303,5 +303,6 @@ export let table = `
 <tr class="B">	<td>AVANCE, 10кг</td> 						<td>68444</td>		<td>7374</td>							</tr>
 <tr class="B">	<td>Taormina, 18кг</td>						<td>68446</td>		<td>7381</td>							</tr>
 <tr class="s">	<td>Smart Cat, 1.8кг</td>					<td>68454</td>		<td>9048, 7114</td>						</tr>
+<tr class="B">	<td>FLORIDA, 14кг</td>						<td>68843</td>		<td>8357</td>							</tr>
 <tr class="B">	<td>SAVITA, 10кг</td>						<td>68921</td>		<td>0508</td>							</tr>
 `;
