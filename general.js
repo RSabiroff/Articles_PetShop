@@ -3,7 +3,7 @@
 
 
 
-export let dateOfChange = 'Крайнее обновление: 23.02.2026';
+export let dateOfChange = 'Крайнее обновление: 11.03.2026';
 export let table = `
 <tr class="s">	<td>Organix, 50г</td> 						<td>10801</td>		<td>0201, 7650</td>						</tr>
 <tr class="s">	<td>Royal Canin, 4кг</td> 					<td>11114</td>		<td>4725, 8824</td>						</tr>
@@ -202,7 +202,7 @@ export let table = `
 <tr class="s">	<td>SAVITA, 5кг</td> 						<td>58946</td>		<td>0983, 5581</td>						</tr>
 <tr class="s">	<td>MR.Crisper, 1кг</td> 					<td>59090</td>		<td>7513</td>							</tr>
 <tr class="s">	<td>Туалет с рамкой-сеткой, 43*30см</td>	<td>59310</td>		<td>8314</td>							</tr>
-<tr class="s">	<td>Туалет, 43*30см</td>					<td>59314</td>		<td>9156</td>							</tr>
+<tr class="s">	<td>Туалет с рамкой-сеткой, 43*30см</td>	<td>59314</td>		<td>9156</td>							</tr>
 <tr class="s">	<td>SAVITA, 240г</td>						<td>59794</td>		<td>1991, 4367, 4267</td>				</tr>
 <tr class="s">	<td>Felix, 1.3кг</td>						<td>59845</td>		<td>6007, 1733</td>						</tr>
 <tr class="s">	<td>Smart Dog, 50г</td> 					<td>59968</td>		<td>6583, 3775</td>						</tr>
@@ -239,6 +239,7 @@ export let table = `
 <tr class="B">	<td>ULTRA, 12кг</td> 						<td>64457</td>		<td>3007</td>							</tr>
 <tr class="B">	<td>GO'KITCHEN, 9.98кг</td> 				<td>64647</td>		<td>4349</td>							</tr>
 <tr class="B">	<td>GO'KITCHEN, 9.98кг</td> 				<td>64650</td>		<td>3458</td>							</tr>
+<tr class="B">	<td>GO'KITCHEN, 7.26кг</td> 				<td>64656</td>		<td>3519</td>							</tr>
 <tr class="B">	<td>GO'KITCHEN, 9.98кг</td> 				<td>64659</td>		<td>3540</td>							</tr>
 <tr class="s">	<td>GO'KITCHEN, 5.44кг</td> 				<td>64667</td>		<td>3625</td>							</tr>
 <tr class="B">	<td>GO'KITCHEN, 9.98кг</td> 				<td>64668</td>		<td>3632</td>							</tr>
