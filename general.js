@@ -3,7 +3,7 @@
 
 
 
-export let dateOfChange = 'Крайнее обновление: 06.05.26';
+export let dateOfChange = 'Крайнее обновление: 09.05.26';
 export let table = `
 <tr class="s">	<td>Organix, 50г</td> 						<td>10801</td>		<td>0201, 7650</td>						</tr>
 <tr class="B">	<td>Eukanuba, 15кг</td> 					<td>11009</td>		<td>2330</td>							</tr>
@@ -314,6 +314,7 @@ export let table = `
 <tr class="B">	<td>NERO GOLD, 10кг</td> 					<td>66891</td>		<td>6064</td>							</tr>
 <tr class="B">	<td>NERO GOLD, 10кг</td> 					<td>66895</td>		<td>6101</td>							</tr>
 <tr class="B">	<td>Almo Nature, 12кг</td> 					<td>66971</td>		<td>6989</td>							</tr>
+<tr class="B">	<td>Almo Nature, 12кг</td> 					<td>66989</td>		<td>7139</td>							</tr>
 <tr class="s">	<td>FLORIDA, 400г</td> 						<td>67081</td>		<td>7160</td>							</tr>
 <tr class="B">	<td>NOW'KITCHEN, 9.98кг</td> 				<td>67155</td>		<td>1730</td>							</tr>
 <tr class="B">	<td>FLORIDA, 7кг</td> 						<td>67180</td>		<td>0061</td>							</tr>
@@ -338,12 +339,14 @@ export let table = `
 <tr class="B">	<td>Karmy, 10кг</td> 						<td>67909</td>		<td>5298, 4485</td>						</tr>
 <tr class="B">	<td>Karmy, 14кг</td> 						<td>67914</td>		<td>6090, 0989</td>						</tr>
 <tr class="B">	<td>Organix, 8кг</td> 						<td>67930</td>		<td>4960</td>							</tr>
+<tr class="B">	<td>Organix, 7кг</td> 						<td>67931</td>		<td>4977</td>							</tr>
 <tr class="B">	<td>ULTRA, 20кг</td> 						<td>67936</td>		<td>5288</td>							</tr>
 <tr class="B">	<td>ULTRA, 20кг</td> 						<td>67937</td>		<td>5295</td>							</tr>
 <tr class="B">	<td>ULTRA, 20кг</td> 						<td>67938</td>		<td>5301</td>							</tr>
 <tr class="s">	<td>PETSHOP, носки для собак</td> 			<td>67992</td>		<td>7562</td>							</tr>
 <tr class="B">	<td>ULTRA, 20кг</td> 						<td>68163</td>		<td>5318</td>							</tr>
 <tr class="B">	<td>Organix, 18кг</td> 						<td>68170</td>		<td>5967</td>							</tr>
+<tr class="B">	<td>Organix, 20кг</td>		 				<td>68289</td>		<td>6759</td>							</tr>
 <tr class="B">	<td>GO'KITCHEN, 7.26кг</td> 				<td>68296</td>		<td>7459</td>							</tr>
 <tr class="B">	<td>AVANCE, 10кг</td> 						<td>68444</td>		<td>7374</td>							</tr>
 <tr class="B">	<td>Taormina, 18кг</td>						<td>68446</td>		<td>7381</td>							</tr>
