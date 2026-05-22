@@ -3,7 +3,7 @@
 
 
 
-export let dateOfChange = 'Крайнее обновление: 09.05.26';
+export let dateOfChange = 'Крайнее обновление: 22.05.26';
 export let table = `
 <tr class="s">	<td>Organix, 50г</td> 						<td>10801</td>		<td>0201, 7650</td>						</tr>
 <tr class="B">	<td>Eukanuba, 15кг</td> 					<td>11009</td>		<td>2330</td>							</tr>
@@ -158,6 +158,7 @@ export let table = `
 <tr class="s">	<td>Organix, паучи</td> 					<td>49806</td>		<td>4831, 3795</td>						</tr>
 <tr class="s">	<td>Anju Beaute, 260г</td> 					<td>50344</td>		<td>0952</td>							</tr>
 <tr class="s">	<td>Tappi</td> 								<td>51129</td>		<td>6310</td>							</tr>
+<tr class="s">	<td>MR.Crisper, 400г</td> 					<td>51408</td>		<td>3717, 3083, 1973</td>				</tr>
 <tr class="s">	<td>MR.Crisper, 900г</td> 					<td>51409</td>		<td>3700, 3076, 4849</td>				</tr>
 <tr class="s">	<td>MR.Crisper, 900г</td> 					<td>51413</td>		<td>3168, 1850</td>						</tr>
 <tr class="s">	<td>MR.Crisper, 400г</td> 					<td>51416</td>		<td>3199, 3404</td>						</tr>
@@ -210,6 +211,7 @@ export let table = `
 <tr class="B">	<td>Karmy, 14кг</td> 						<td>58730</td>		<td>0996, 6083</td>						</tr>
 <tr class="B">	<td>Karmy, 14кг</td> 						<td>58733</td>		<td>8414</td>							</tr>
 <tr class="B">	<td>Karmy, 14кг</td> 						<td>58734</td>		<td>1009, 6144</td>						</tr>
+<tr class="s">	<td>SAVITA, 4кг</td> 						<td>58928</td>		<td>1034, 5390</td>						</tr>
 <tr class="B">	<td>SAVITA, 10кг</td> 						<td>58932</td>		<td>0952, 5437</td>						</tr>
 <tr class="s">	<td>SAVITA, 1кг</td> 						<td>58933</td>		<td>0907, 5444</td>						</tr>
 <tr class="s">	<td>SAVITA, 4кг</td> 						<td>58934</td>		<td>5451, 0914</td>						</tr>
