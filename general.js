@@ -3,7 +3,7 @@
 
 
 
-export let dateOfChange = 'Крайнее обновление: 22.05.26';
+export let dateOfChange = 'Крайнее обновление: 03.06.26';
 export let table = `
 <tr class="s">	<td>Organix, 50г</td> 						<td>10801</td>		<td>0201, 7650</td>						</tr>
 <tr class="B">	<td>Eukanuba, 15кг</td> 					<td>11009</td>		<td>2330</td>							</tr>
