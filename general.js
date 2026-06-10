@@ -176,6 +176,7 @@ export let table = `
 <tr class="B">	<td>Purina Pro Plan, 7кг</td> 				<td>52761</td>		<td>7929</td>							</tr>
 <tr class="s">	<td>Smart Cat, паучи</td> 					<td>53309</td>		<td>6507, 9756</td>						</tr>
 <tr class="s">	<td>Smart Cat, паучи</td> 					<td>53311</td>		<td>6477, 2159</td>						</tr>
+<tr class="s">	<td>Purina Pro Plan, паучи</td> 			<td>53518</td>		<td>9724</td>							</tr>
 <tr class="s">	<td>NERO GOLD, 415г</td> 					<td>53620</td>		<td>1372, 1583</td>						</tr>
 <tr class="s">	<td>NERO GOLD, 415г</td> 					<td>53621</td>		<td>1389, 0662</td>						</tr>
 <tr class="s">	<td>FLORIDA, 800г</td> 						<td>53906</td>		<td>9888</td>							</tr>
